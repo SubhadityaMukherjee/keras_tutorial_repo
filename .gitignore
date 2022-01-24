@@ -147,3 +147,4 @@ __pycache__/*
 tags
 *.txt
 *.h5
+logs/
