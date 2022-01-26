@@ -31,9 +31,9 @@ subdirs
 def return_git_link(x, name=None):
     x = x.strip()[1::]
     if name == None:
-        x = f"  -[{x.split('/')[-1]}](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main{x})\n"
+        x = f"  - [{x.split('/')[-1]}](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main{x})\n"
     else:
-        x = f"-[{name[2::]}](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main{x})\n"
+        x = f"- [{name[2::]}](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main{x})\n"
     return x
 
 

@@ -16,20 +16,20 @@ All the notebooks are auto generated and so have no inputs
 
 ## INDEX
 
--[3D/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/3D/)
+- [3D/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/3D/)
 
 
--[Vision/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/Vision/)
+- [Vision/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/Vision/)
 
-  -[basicSegmentation](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/Vision/basicSegmentation)
+  - [basicSegmentation](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/Vision/basicSegmentation)
 
-  -[basicClassification](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/Vision/basicClassification)
+  - [basicClassification](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/Vision/basicClassification)
 
--[ModelVisualization/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/)
+- [ModelVisualization/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/)
 
-  -[GradCAM](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/GradCAM)
+  - [GradCAM](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/GradCAM)
 
--[GANs/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/GANs/)
+- [GANs/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/GANs/)
 
-  -[DCGAN](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/GANs/DCGAN)
+  - [DCGAN](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/GANs/DCGAN)
 
