@@ -148,3 +148,5 @@ tags
 *.txt
 *.h5
 logs/
+!model.jpg
+!cam.jpg
