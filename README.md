@@ -25,9 +25,17 @@ All the notebooks are auto generated and so have no inputs
 
   - [basicClassification](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/Vision/basicClassification)
 
+- [TimeSeries/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/TimeSeries/)
+
+  - [SimpleClassification](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/TimeSeries/SimpleClassification)
+
+- [NLP/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/NLP/)
+
+  - [TransformerClassification](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/NLP/TransformerClassification)
+
 - [ModelVisualization/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/)
 
-  - [GradCAM](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/GradCAM)
+  - [gradCAM](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/gradCAM)
 
 - [GANs/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/GANs/)
 
