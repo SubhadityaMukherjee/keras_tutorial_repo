@@ -33,6 +33,10 @@ All the notebooks are auto generated and so have no inputs
 
   - [TransformerClassification](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/NLP/TransformerClassification)
 
+- [VAEs/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/VAEs/)
+
+  - [simpleVAE](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/VAEs/simpleVAE)
+
 - [ModelVisualization/](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/)
 
   - [gradCAM](https://github.com/SubhadityaMukherjee/keras_tutorial_repo/tree/main/ModelVisualization/gradCAM)
